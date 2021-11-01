@@ -1,4 +1,4 @@
-﻿class Control(object):
+﻿class Control:
 
     def __init__(self):
         self.tv = None
